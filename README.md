@@ -1,2 +1,2 @@
 # Project-Lomba
-Project Lomba Data Science 2021
+Project Lomba Turnamen Sains Data Nasional 2021 Cyber Data Academy
